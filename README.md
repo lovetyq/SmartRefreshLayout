@@ -6,9 +6,6 @@
 [![MinSdk](https://img.shields.io/badge/%20MinSdk%20-%2012%2B%20-f0ad4e.svg)](https://android-arsenal.com/api?level=12)
 [![Methods](https://img.shields.io/badge/Methods%20%7C%20Size%20-%20784%20%7C%20121%20KB-d9534f.svg)](http://www.methodscount.com/?lib=com.scwang.smartrefresh%3ASmartRefreshLayout%3A1.0.4)
 
-<!-- [![Platform](https://img.shields.io/badge/Platform-Android-f0ad4e.svg)](https://www.android.com) -->
-<!-- [![Author](https://img.shields.io/badge/Author-scwang90-11bbff.svg)](https://github.com/scwang90) -->
-
 ## [English](README_EN.md) | 中文
 
 SmartRefreshLayout以打造一个强大，稳定，成熟的下拉刷新框架为目标，并集成各种的炫酷、多样、实用、美观的Header和Footer。
@@ -36,14 +33,6 @@ SmartRefreshLayout以打造一个强大，稳定，成熟的下拉刷新框架�
  - 支持所有可滚动视图的越界回弹
  - 支持 Header 和 Footer 交换混用
  - 支持AndroidX
-
-## 每天领红包
-
-最近开通了支付宝商家，生成了个红包二维码，经常用支付宝的童鞋可有扫码领优惠红包，扫码只会拿红包，不会有任何损失，每天都可以扫码哦！
-
-![支付宝红包](https://github.com/scwang90/MultiWaveHeader/blob/master/art/pay_alipay_red_packet.png?raw=true)
-
-> 你也可以在支付宝中直接搜索 **553866294** 来获取红包。如果得到的是花呗红包，也不用失望。如果你经常使用信用卡的话那么使用花呗红包非常适合你，它也和信用卡一样先消费后还款，关键是每天都能扫红包省钱！
 
 ## 传送门
 
